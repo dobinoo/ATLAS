@@ -3,6 +3,7 @@
 
 import time                         #import for time use
 import logging                      #import for future debug
+import Atlas_input                        #importing function to take care of input
 
 logging_level = logging.DEBUG       #setting up logging level
 output = "Just testing output, this will change in future"          #just testing output - change in future
@@ -28,8 +29,9 @@ if __name__ == "__main__":
             exit_function()
 
         #time.sleep(3) commenting just for now
-        print("User input" + text)
-        print("ATLAS output" + output + "\n")
+        print("User input: " + text)
+        #print("ATLAS output: " + output + "\n")
+        print("ATLAS output: " + Atlas_input.voice_input(text) + "\n")
 
             ########################For Exception########################
             #print("Unknown Error") exception not working right now
