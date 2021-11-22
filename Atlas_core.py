@@ -17,13 +17,13 @@ def exit_function():
 if __name__ == "__main__":
 
     #logging config - level (DEBUG,INFO,WARNING,ERROR)
-    logging.basicConfig(filename = "debug/core.log", encoding = "utf-8", level = logging_level, format = "%(asctime)s %(message)s")
+    logging.basicConfig(filename = "debug/debug.log", encoding = "utf-8", level = logging_level, format = "%(asctime)s %(message)s")
     logging.debug("Starting the main process (core.py)\n")
 
     #main loop basically takes care of life, universe and everything (42)
     while True:
         text = input()
-        logging.debug("User input :" + text)
+        logging.debug("User input: " + text)
 
         if text == "exit":
             exit_function()

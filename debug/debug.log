@@ -1,0 +1,43 @@
+2021-11-16 22:16:41,400 Starting the main process (core.py)
+
+2021-11-16 22:16:44,538 User input: whoami
+2021-11-16 22:16:44,539 Voice_input function with this sentence: whoami
+
+2021-11-16 22:16:44,539 Setting default voice_output: You are asking wrong question
+
+
+2021-11-16 22:16:45,811 User input: testing
+2021-11-16 22:16:45,812 Voice_input function with this sentence: testing
+
+2021-11-16 22:16:45,812 Setting default voice_output: You are asking wrong question
+
+
+2021-11-16 22:16:49,533 User input: ATLAS
+2021-11-16 22:16:49,533 Voice_input function with this sentence: ATLAS
+
+2021-11-16 22:16:49,534 Setting default voice_output: You are asking wrong question
+
+
+2021-11-16 22:16:49,534 Returning voice_output: Another Technical Love of an Anonymous Stranger
+
+2021-11-16 22:16:51,523 User input: ls
+2021-11-16 22:16:51,523 Voice_input function with this sentence: ls
+
+2021-11-16 22:16:51,523 Setting default voice_output: You are asking wrong question
+
+
+2021-11-16 22:16:52,356 User input: ls
+2021-11-16 22:16:52,356 Voice_input function with this sentence: ls
+
+2021-11-16 22:16:52,356 Setting default voice_output: You are asking wrong question
+
+
+2021-11-16 22:16:54,905 User input: ppt
+2021-11-16 22:16:54,905 Voice_input function with this sentence: ppt
+
+2021-11-16 22:16:54,905 Setting default voice_output: You are asking wrong question
+
+
+2021-11-16 22:16:58,238 User input: exit
+2021-11-16 22:16:58,238 Ending the main process (core.py)
+
