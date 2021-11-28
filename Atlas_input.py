@@ -20,33 +20,44 @@ main_word_list = {"shut down" : ["shut down", "shutdown", "switch off", "turn of
 				"how are you" : ['how are you', 'whats up', 'what\'s up', 'what is up', 'how do you feel', 'how are you feeling'],
 				"hello" : ["hello", "hi", "high", 'good morning', 'good afternoon', 'good day', 'morning', 'ola'],
 				"are you there" : ['are you on', 'you on', 'can you hear me', 'you there', 'are you there', 'are you listening', 'are you up'],
-                "introduction" : ['introduce yourself', 'ATLAS', 'yourself'],
+				"introduction" : ['introduce yourself', 'ATLAS', 'yourself'],
 				"add to script" : ['add to script']}
 #main wordlist for specific protocols############################################################################################################################
 
 
 #Main function to call in core program to parse voice
 def voice_input(voice_sentence):
-    logging.debug("Voice_input function with this sentence: " + voice_sentence + "\n")
-    voice_output = "You are asking wrong question\n"
-    logging.info("Setting default voice_output: " + voice_output + "\n")
+	logging.debug("Voice_input function with this sentence: " + voice_sentence + "\n")
+	voice_output = "You are asking wrong question\n"
+	logging.info("Setting default voice_output: " + voice_output + "\n")
 
-    #Update later
-    # for key, value in word_list.items():
-    #     for word in value:
-    #         if word == search_value:
-    #             print(key)
+	key_name = dictionary_search(voice_sentence)
+	print(key_name)
 
-    if voice_sentence == "ATLAS":
-        voice_output = "Another Technical Love of an Anonymous Stranger"
-        logging.debug("Returning voice_output: " + voice_output + "\n")
+	if voice_sentence == "ATLAS":
+		voice_output = "Another Technical Love of an Anonymous Stranger"
+		logging.debug("Returning voice_output: " + voice_output + "\n")
 
-    return voice_output
+	return voice_output
+
+def dictionary_search(phrase):
+	logging.debug("Entered function with this phrase:" + phrase + "\n")
+	logging.info("Default key_name = '' ")
+	key_name = ""
+
+	for key, value in main_word_list.items():
+		for word in value:
+			if word == phrase:
+				key_name = key
+				logging.debug("Found key:" + key_name)
+				#print(key)
+
+	return key_name
 
 #dont forget to input wikipedia
 #wikipedia protocol to get summary from wikipedia
 def get_wiki_summary(string):
-    logging.debug("Entered Atlas_input.py -> get_wiki_summary with: " + string)
+	logging.debug("Entered Atlas_input.py -> get_wiki_summary with: " + string)
 	try:
 		data = wikipedia.summary(string).lower()
 		data = data.replace("i.e.", "i,e,").replace("e.g.", "e,g,").replace("jr.", "jr,").replace("sr.", "sr,").replace("lit.", "lit,")
@@ -61,14 +72,14 @@ def get_wiki_summary(string):
 
 	except:
 		summary = "I'm not sure whae you mean. Could you be more specific?"
-        logging.error("Problem within Altas_input.py -> get_wiki_summary")
+		logging.error("Problem within Altas_input.py -> get_wiki_summary")
 
 	return(summary)
 
 #dont forget to input wikipedia
 #wikipedia protocol to get summary from wikipedia
 def get_wiki_def(string):
-    logging.debug("Entered Atlas_input.py -> get_wiki_def with: " + string)
+	logging.debug("Entered Atlas_input.py -> get_wiki_def with: " + string)
 	try:
 		data = wikipedia.summary(string).lower()
 		data = data.replace("i.e.", "i,e,").replace("e.g.", "e,g,").replace("jr.", "jr,").replace("sr.", "sr,").replace("lit.", "lit,")
@@ -78,6 +89,6 @@ def get_wiki_def(string):
 
 	except:
 		definition = "I'm not sure what you mean. Could you be more specific?"
-        logging.error("Problem within Altas_input.py -> get_wiki_def")
-        
+		logging.error("Problem within Altas_input.py -> get_wiki_def")
+
 	return(definition)

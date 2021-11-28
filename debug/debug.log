@@ -41,3 +41,74 @@
 2021-11-16 22:16:58,238 User input: exit
 2021-11-16 22:16:58,238 Ending the main process (core.py)
 
+2021-11-26 17:03:12,109 Starting the main process (core.py)
+
+2021-11-26 17:03:15,608 User input: testik
+2021-11-26 17:03:15,609 Voice_input function with this sentence: testik
+
+2021-11-26 17:03:15,609 Setting default voice_output: You are asking wrong question
+
+
+2021-11-26 17:03:15,609 Entered function with this phrase:testik
+
+2021-11-26 17:04:25,225 Starting the main process (core.py)
+
+2021-11-26 17:04:27,567 User input: hi
+2021-11-26 17:04:27,568 Voice_input function with this sentence: hi
+
+2021-11-26 17:04:27,568 Setting default voice_output: You are asking wrong question
+
+
+2021-11-26 17:04:27,568 Entered function with this phrase:hi
+
+2021-11-26 17:04:27,568 Found key:hello
+2021-11-26 17:08:52,815 Starting the main process (core.py)
+
+2021-11-26 17:08:52,931 User input: 
+2021-11-26 17:08:52,931 Voice_input function with this sentence: 
+
+2021-11-26 17:08:52,931 Setting default voice_output: You are asking wrong question
+
+
+2021-11-26 17:08:52,931 Entered function with this phrase:
+
+2021-11-26 17:11:53,728 Starting the main process (core.py)
+
+2021-11-26 17:11:57,219 User input: hi
+2021-11-26 17:11:57,219 Voice_input function with this sentence: hi
+
+2021-11-26 17:11:57,219 Setting default voice_output: You are asking wrong question
+
+
+2021-11-26 17:11:57,219 Entered function with this phrase:hi
+
+2021-11-26 17:11:57,219 Default key_name = '' 
+2021-11-26 17:11:57,219 Found key:hello
+2021-11-26 17:12:34,184 User input: Hello how are you today
+2021-11-26 17:12:34,184 Voice_input function with this sentence: Hello how are you today
+
+2021-11-26 17:12:34,184 Setting default voice_output: You are asking wrong question
+
+
+2021-11-26 17:12:34,184 Entered function with this phrase:Hello how are you today
+
+2021-11-26 17:12:34,184 Default key_name = '' 
+2021-11-26 17:13:03,510 User input: Hello, how are you today ?
+2021-11-26 17:13:03,510 Voice_input function with this sentence: Hello, how are you today ?
+
+2021-11-26 17:13:03,510 Setting default voice_output: You are asking wrong question
+
+
+2021-11-26 17:13:03,510 Entered function with this phrase:Hello, how are you today ?
+
+2021-11-26 17:13:03,510 Default key_name = '' 
+2021-11-26 17:13:07,436 User input: how are you
+2021-11-26 17:13:07,437 Voice_input function with this sentence: how are you
+
+2021-11-26 17:13:07,437 Setting default voice_output: You are asking wrong question
+
+
+2021-11-26 17:13:07,437 Entered function with this phrase:how are you
+
+2021-11-26 17:13:07,437 Default key_name = '' 
+2021-11-26 17:13:07,437 Found key:how are you
