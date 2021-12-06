@@ -31,20 +31,35 @@ def voice_input(voice_sentence):
 	voice_output = "You are asking wrong question\n"
 	logging.info("Setting default voice_output: " + voice_output + "\n")
 
-	key_name = dictionary_search(voice_sentence)
-	print(key_name)
+	parsed_sentence = sentence_parse(voice_sentence)
+	#keys_list = [""] - this needs to be fixed, bc then keys_list is not defined !!!!!!!!!
 
-	if voice_sentence == "ATLAS":
-		voice_output = "Another Technical Love of an Anonymous Stranger"
-		logging.debug("Returning voice_output: " + voice_output + "\n")
+	#For every word in sentence search key words in dictionary
+	for word in parsed_sentence:
+		key = dictionary_search(word)
+		if key != "":
+			keys_list.append(key)
+
+	print(keys_list)
+
+	# if voice_sentence == "ATLAS":
+	# 	voice_output = "Another Technical Love of an Anonymous Stranger"
+	# 	logging.debug("Returning voice_output: " + voice_output + "\n")
 
 	return voice_output
 
+#Function to parse sentence_parse
+def sentence_parse(sentence):
+	parsed_sentence = sentence.split()
+	return parsed_sentence
+
+#Function to search inside dictionaries
 def dictionary_search(phrase):
 	logging.debug("Entered function with this phrase:" + phrase + "\n")
 	logging.info("Default key_name = '' ")
 	key_name = ""
 
+	#search function
 	for key, value in main_word_list.items():
 		for word in value:
 			if word == phrase:

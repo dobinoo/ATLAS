@@ -112,3 +112,109 @@
 
 2021-11-26 17:13:07,437 Default key_name = '' 
 2021-11-26 17:13:07,437 Found key:how are you
+2021-12-06 22:28:28,433 Starting the main process (core.py)
+
+2021-12-06 22:28:33,434 User input: Ahojte ako sa mate <
+2021-12-06 22:28:33,434 Voice_input function with this sentence: Ahojte ako sa mate <
+
+2021-12-06 22:28:33,442 Setting default voice_output: You are asking wrong question
+
+
+2021-12-06 22:44:24,895 Starting the main process (core.py)
+
+2021-12-06 22:44:29,395 User input: Test 123
+2021-12-06 22:44:29,396 Voice_input function with this sentence: Test 123
+
+2021-12-06 22:44:29,396 Setting default voice_output: You are asking wrong question
+
+
+2021-12-06 22:46:56,951 Starting the main process (core.py)
+
+2021-12-06 22:47:00,737 User input: Testik
+2021-12-06 22:47:00,737 Voice_input function with this sentence: Testik
+
+2021-12-06 22:47:00,737 Setting default voice_output: You are asking wrong question
+
+
+2021-12-06 22:47:00,737 Entered function with this phrase:Testik
+
+2021-12-06 22:47:00,737 Default key_name = '' 
+2021-12-06 22:47:20,359 User input: Toto je testovacia veta ktora by nemala prakticky vratic nic
+2021-12-06 22:47:20,359 Voice_input function with this sentence: Toto je testovacia veta ktora by nemala prakticky vratic nic
+
+2021-12-06 22:47:20,359 Setting default voice_output: You are asking wrong question
+
+
+2021-12-06 22:47:20,359 Entered function with this phrase:Toto
+
+2021-12-06 22:47:20,359 Default key_name = '' 
+2021-12-06 22:47:20,359 Entered function with this phrase:je
+
+2021-12-06 22:47:20,359 Default key_name = '' 
+2021-12-06 22:47:20,359 Entered function with this phrase:testovacia
+
+2021-12-06 22:47:20,359 Default key_name = '' 
+2021-12-06 22:47:20,359 Entered function with this phrase:veta
+
+2021-12-06 22:47:20,359 Default key_name = '' 
+2021-12-06 22:47:20,359 Entered function with this phrase:ktora
+
+2021-12-06 22:47:20,359 Default key_name = '' 
+2021-12-06 22:47:20,359 Entered function with this phrase:by
+
+2021-12-06 22:47:20,359 Default key_name = '' 
+2021-12-06 22:47:20,359 Entered function with this phrase:nemala
+
+2021-12-06 22:47:20,359 Default key_name = '' 
+2021-12-06 22:47:20,359 Entered function with this phrase:prakticky
+
+2021-12-06 22:47:20,360 Default key_name = '' 
+2021-12-06 22:47:20,360 Entered function with this phrase:vratic
+
+2021-12-06 22:47:20,360 Default key_name = '' 
+2021-12-06 22:47:20,360 Entered function with this phrase:nic
+
+2021-12-06 22:47:20,360 Default key_name = '' 
+2021-12-06 22:54:55,839 Starting the main process (core.py)
+
+2021-12-06 22:55:06,865 User input: Testovacia veta
+2021-12-06 22:55:06,865 Voice_input function with this sentence: Testovacia veta
+
+2021-12-06 22:55:06,865 Setting default voice_output: You are asking wrong question
+
+
+2021-12-06 22:55:06,865 Entered function with this phrase:Testovacia
+
+2021-12-06 22:55:06,865 Default key_name = '' 
+2021-12-06 22:55:06,866 Entered function with this phrase:veta
+
+2021-12-06 22:55:06,866 Default key_name = '' 
+2021-12-06 22:55:22,613 Starting the main process (core.py)
+
+2021-12-06 22:55:32,411 User input: testovacia veta uvidm co nam to vyhodi
+2021-12-06 22:55:32,411 Voice_input function with this sentence: testovacia veta uvidm co nam to vyhodi
+
+2021-12-06 22:55:32,412 Setting default voice_output: You are asking wrong question
+
+
+2021-12-06 22:55:32,412 Entered function with this phrase:testovacia
+
+2021-12-06 22:55:32,412 Default key_name = '' 
+2021-12-06 22:55:32,412 Entered function with this phrase:veta
+
+2021-12-06 22:55:32,412 Default key_name = '' 
+2021-12-06 22:55:32,412 Entered function with this phrase:uvidm
+
+2021-12-06 22:55:32,412 Default key_name = '' 
+2021-12-06 22:55:32,412 Entered function with this phrase:co
+
+2021-12-06 22:55:32,412 Default key_name = '' 
+2021-12-06 22:55:32,412 Entered function with this phrase:nam
+
+2021-12-06 22:55:32,412 Default key_name = '' 
+2021-12-06 22:55:32,412 Entered function with this phrase:to
+
+2021-12-06 22:55:32,412 Default key_name = '' 
+2021-12-06 22:55:32,412 Entered function with this phrase:vyhodi
+
+2021-12-06 22:55:32,412 Default key_name = '' 
