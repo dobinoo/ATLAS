@@ -32,15 +32,18 @@ def voice_input(voice_sentence):
 	logging.info("Setting default voice_output: " + voice_output + "\n")
 
 	parsed_sentence = sentence_parse(voice_sentence)
-	#keys_list = [""] - this needs to be fixed, bc then keys_list is not defined !!!!!!!!!
+	keys_list = []
 
 	#For every word in sentence search key words in dictionary
 	for word in parsed_sentence:
 		key = dictionary_search(word)
 		if key != "":
+			logging.debug("Printed key found in dictionary: " + key)
 			keys_list.append(key)
-
-	print(keys_list)
+			print (keys_list)
+		else:
+			logging.info("No key found or key is empty")
+	#print(keys_list)
 
 	# if voice_sentence == "ATLAS":
 	# 	voice_output = "Another Technical Love of an Anonymous Stranger"

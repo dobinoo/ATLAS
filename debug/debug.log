@@ -218,3 +218,500 @@
 2021-12-06 22:55:32,412 Entered function with this phrase:vyhodi
 
 2021-12-06 22:55:32,412 Default key_name = '' 
+2022-02-11 15:15:42,952 Starting the main process (core.py)
+
+2022-02-11 15:15:46,740 User input: Test
+2022-02-11 15:15:46,740 Voice_input function with this sentence: Test
+
+2022-02-11 15:15:46,740 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:15:46,740 Entered function with this phrase:Test
+
+2022-02-11 15:15:46,740 Default key_name = '' 
+2022-02-11 15:20:19,950 Starting the main process (core.py)
+
+2022-02-11 15:20:21,642 User input: test
+2022-02-11 15:20:21,642 Voice_input function with this sentence: test
+
+2022-02-11 15:20:21,642 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:20:21,642 Entered function with this phrase:test
+
+2022-02-11 15:20:21,642 Default key_name = '' 
+2022-02-11 15:20:35,238 User input: Ako sa volas
+2022-02-11 15:20:35,238 Voice_input function with this sentence: Ako sa volas
+
+2022-02-11 15:20:35,238 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:20:35,238 Entered function with this phrase:Ako
+
+2022-02-11 15:20:35,238 Default key_name = '' 
+2022-02-11 15:20:35,238 Entered function with this phrase:sa
+
+2022-02-11 15:20:35,238 Default key_name = '' 
+2022-02-11 15:20:35,238 Entered function with this phrase:volas
+
+2022-02-11 15:20:35,238 Default key_name = '' 
+2022-02-11 15:24:23,944 Starting the main process (core.py)
+
+2022-02-11 15:24:26,558 User input: Kto si
+2022-02-11 15:24:26,558 Voice_input function with this sentence: Kto si
+
+2022-02-11 15:24:26,558 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:24:26,558 Entered function with this phrase:Kto
+
+2022-02-11 15:24:26,558 Default key_name = '' 
+2022-02-11 15:24:26,558 Entered function with this phrase:si
+
+2022-02-11 15:24:26,558 Default key_name = '' 
+2022-02-11 15:25:12,533 Starting the main process (core.py)
+
+2022-02-11 15:25:21,940 User input: what time is it
+2022-02-11 15:25:21,940 Voice_input function with this sentence: what time is it
+
+2022-02-11 15:25:21,941 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:25:21,941 Entered function with this phrase:what
+
+2022-02-11 15:25:21,941 Default key_name = '' 
+2022-02-11 15:25:21,941 Entered function with this phrase:time
+
+2022-02-11 15:25:21,941 Default key_name = '' 
+2022-02-11 15:25:21,941 Entered function with this phrase:is
+
+2022-02-11 15:25:21,941 Default key_name = '' 
+2022-02-11 15:25:21,941 Entered function with this phrase:it
+
+2022-02-11 15:25:21,941 Default key_name = '' 
+2022-02-11 15:25:29,621 User input: who are you
+2022-02-11 15:25:29,621 Voice_input function with this sentence: who are you
+
+2022-02-11 15:25:29,621 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:25:29,621 Entered function with this phrase:who
+
+2022-02-11 15:25:29,621 Default key_name = '' 
+2022-02-11 15:25:29,621 Entered function with this phrase:are
+
+2022-02-11 15:25:29,621 Default key_name = '' 
+2022-02-11 15:25:29,621 Entered function with this phrase:you
+
+2022-02-11 15:25:29,621 Default key_name = '' 
+2022-02-11 15:25:32,433 User input: atlas
+2022-02-11 15:25:32,433 Voice_input function with this sentence: atlas
+
+2022-02-11 15:25:32,433 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:25:32,433 Entered function with this phrase:atlas
+
+2022-02-11 15:25:32,433 Default key_name = '' 
+2022-02-11 15:25:36,925 User input: ATLAS
+2022-02-11 15:25:36,925 Voice_input function with this sentence: ATLAS
+
+2022-02-11 15:25:36,925 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:25:36,925 Entered function with this phrase:ATLAS
+
+2022-02-11 15:25:36,926 Default key_name = '' 
+2022-02-11 15:25:36,926 Found key:introduction
+2022-02-11 15:26:32,837 User input: introduce yourselve
+2022-02-11 15:26:32,837 Voice_input function with this sentence: introduce yourselve
+
+2022-02-11 15:26:32,837 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:26:32,837 Entered function with this phrase:introduce
+
+2022-02-11 15:26:32,837 Default key_name = '' 
+2022-02-11 15:26:32,837 Entered function with this phrase:yourselve
+
+2022-02-11 15:26:32,837 Default key_name = '' 
+2022-02-11 15:26:41,262 User input: yourself
+2022-02-11 15:26:41,262 Voice_input function with this sentence: yourself
+
+2022-02-11 15:26:41,262 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:26:41,262 Entered function with this phrase:yourself
+
+2022-02-11 15:26:41,262 Default key_name = '' 
+2022-02-11 15:26:41,262 Found key:introduction
+2022-02-11 15:27:49,000 User input: time
+2022-02-11 15:27:49,000 Voice_input function with this sentence: time
+
+2022-02-11 15:27:49,000 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:27:49,000 Entered function with this phrase:time
+
+2022-02-11 15:27:49,000 Default key_name = '' 
+2022-02-11 15:27:52,442 User input: dumb
+2022-02-11 15:27:52,442 Voice_input function with this sentence: dumb
+
+2022-02-11 15:27:52,442 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:27:52,442 Entered function with this phrase:dumb
+
+2022-02-11 15:27:52,442 Default key_name = '' 
+2022-02-11 15:27:52,442 Found key:abusive
+2022-02-11 15:27:55,281 User input: suck
+2022-02-11 15:27:55,282 Voice_input function with this sentence: suck
+
+2022-02-11 15:27:55,282 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:27:55,282 Entered function with this phrase:suck
+
+2022-02-11 15:27:55,282 Default key_name = '' 
+2022-02-11 15:27:55,282 Found key:abusive
+2022-02-11 15:28:12,820 User input: tell me more
+2022-02-11 15:28:12,820 Voice_input function with this sentence: tell me more
+
+2022-02-11 15:28:12,820 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:12,820 Entered function with this phrase:tell
+
+2022-02-11 15:28:12,820 Default key_name = '' 
+2022-02-11 15:28:12,820 Entered function with this phrase:me
+
+2022-02-11 15:28:12,820 Default key_name = '' 
+2022-02-11 15:28:12,821 Entered function with this phrase:more
+
+2022-02-11 15:28:12,821 Default key_name = '' 
+2022-02-11 15:28:17,197 User input: thank you
+2022-02-11 15:28:17,197 Voice_input function with this sentence: thank you
+
+2022-02-11 15:28:17,197 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:17,197 Entered function with this phrase:thank
+
+2022-02-11 15:28:17,197 Default key_name = '' 
+2022-02-11 15:28:17,197 Entered function with this phrase:you
+
+2022-02-11 15:28:17,197 Default key_name = '' 
+2022-02-11 15:28:19,981 User input: thanks
+2022-02-11 15:28:19,981 Voice_input function with this sentence: thanks
+
+2022-02-11 15:28:19,981 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:19,981 Entered function with this phrase:thanks
+
+2022-02-11 15:28:19,981 Default key_name = '' 
+2022-02-11 15:28:19,981 Found key:thanks
+2022-02-11 15:28:23,108 User input: djilsadsjiadsji\
+2022-02-11 15:28:23,108 Voice_input function with this sentence: djilsadsjiadsji\
+
+2022-02-11 15:28:23,108 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:23,108 Entered function with this phrase:djilsadsjiadsji\
+
+2022-02-11 15:28:23,108 Default key_name = '' 
+2022-02-11 15:28:24,162 User input: afdiojosdf
+2022-02-11 15:28:24,162 Voice_input function with this sentence: afdiojosdf
+
+2022-02-11 15:28:24,162 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:24,162 Entered function with this phrase:afdiojosdf
+
+2022-02-11 15:28:24,162 Default key_name = '' 
+2022-02-11 15:28:24,865 User input: dsfou
+2022-02-11 15:28:24,865 Voice_input function with this sentence: dsfou
+
+2022-02-11 15:28:24,865 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:24,865 Entered function with this phrase:dsfou
+
+2022-02-11 15:28:24,865 Default key_name = '' 
+2022-02-11 15:28:25,864 User input: dsfodsf
+2022-02-11 15:28:25,865 Voice_input function with this sentence: dsfodsf
+
+2022-02-11 15:28:25,865 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:25,865 Entered function with this phrase:dsfodsf
+
+2022-02-11 15:28:25,865 Default key_name = '' 
+2022-02-11 15:28:26,600 User input: odsfi
+2022-02-11 15:28:26,601 Voice_input function with this sentence: odsfi
+
+2022-02-11 15:28:26,601 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:26,601 Entered function with this phrase:odsfi
+
+2022-02-11 15:28:26,601 Default key_name = '' 
+2022-02-11 15:28:27,298 User input: dsfjio\
+2022-02-11 15:28:27,298 Voice_input function with this sentence: dsfjio\
+
+2022-02-11 15:28:27,298 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:27,298 Entered function with this phrase:dsfjio\
+
+2022-02-11 15:28:27,298 Default key_name = '' 
+2022-02-11 15:28:36,415 User input: \dsfnjjsdfidsfoidsfoidsfiodsfiojdsfijodsfjiodsfjiodfsjiodsfiojdsfoisjfsofjsoifjsoifjsofjsdofjisofjsofijdsiofsoifjsiodfjsdoijfsufgijrubbioduohfhwopidfhspodifhasf
+2022-02-11 15:28:36,423 Voice_input function with this sentence: \dsfnjjsdfidsfoidsfoidsfiodsfiojdsfijodsfjiodsfjiodfsjiodsfiojdsfoisjfsofjsoifjsoifjsofjsdofjisofjsofijdsiofsoifjsiodfjsdoijfsufgijrubbioduohfhwopidfhspodifhasf
+
+2022-02-11 15:28:36,423 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:36,423 Entered function with this phrase:\dsfnjjsdfidsfoidsfoidsfiodsfiojdsfijodsfjiodsfjiodfsjiodsfiojdsfoisjfsofjsoifjsoifjsofjsdofjisofjsofijdsiofsoifjsiodfjsdoijfsufgijrubbioduohfhwopidfhspodifhasf
+
+2022-02-11 15:28:36,423 Default key_name = '' 
+2022-02-11 15:28:37,583 User input: sdhfhgf
+2022-02-11 15:28:37,584 Voice_input function with this sentence: sdhfhgf
+
+2022-02-11 15:28:37,584 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:37,584 Entered function with this phrase:sdhfhgf
+
+2022-02-11 15:28:37,584 Default key_name = '' 
+2022-02-11 15:28:39,483 User input: rgjrjgpwgpw
+2022-02-11 15:28:39,483 Voice_input function with this sentence: rgjrjgpwgpw
+
+2022-02-11 15:28:39,483 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:39,483 Entered function with this phrase:rgjrjgpwgpw
+
+2022-02-11 15:28:39,483 Default key_name = '' 
+2022-02-11 15:28:40,438 User input: sdgjgiwrg
+2022-02-11 15:28:40,438 Voice_input function with this sentence: sdgjgiwrg
+
+2022-02-11 15:28:40,438 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:40,438 Entered function with this phrase:sdgjgiwrg
+
+2022-02-11 15:28:40,438 Default key_name = '' 
+2022-02-11 15:28:45,166 User input: what are you doing
+2022-02-11 15:28:45,166 Voice_input function with this sentence: what are you doing
+
+2022-02-11 15:28:45,166 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:45,166 Entered function with this phrase:what
+
+2022-02-11 15:28:45,166 Default key_name = '' 
+2022-02-11 15:28:45,166 Entered function with this phrase:are
+
+2022-02-11 15:28:45,166 Default key_name = '' 
+2022-02-11 15:28:45,166 Entered function with this phrase:you
+
+2022-02-11 15:28:45,166 Default key_name = '' 
+2022-02-11 15:28:45,166 Entered function with this phrase:doing
+
+2022-02-11 15:28:45,166 Default key_name = '' 
+2022-02-11 15:28:48,240 User input: how are you doing
+2022-02-11 15:28:48,240 Voice_input function with this sentence: how are you doing
+
+2022-02-11 15:28:48,241 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 15:28:48,241 Entered function with this phrase:how
+
+2022-02-11 15:28:48,241 Default key_name = '' 
+2022-02-11 15:28:48,241 Entered function with this phrase:are
+
+2022-02-11 15:28:48,241 Default key_name = '' 
+2022-02-11 15:28:48,241 Entered function with this phrase:you
+
+2022-02-11 15:28:48,241 Default key_name = '' 
+2022-02-11 15:28:48,241 Entered function with this phrase:doing
+
+2022-02-11 15:28:48,241 Default key_name = '' 
+2022-02-11 17:29:07,232 Starting the main process (core.py)
+
+2022-02-11 17:29:13,717 User input: Testik
+2022-02-11 17:29:13,717 Voice_input function with this sentence: Testik
+
+2022-02-11 17:29:13,717 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:29:13,717 Entered function with this phrase:Testik
+
+2022-02-11 17:29:13,717 Default key_name = '' 
+2022-02-11 17:29:13,717 No key found or key is empty
+2022-02-11 17:29:26,421 User input: fuck
+2022-02-11 17:29:26,421 Voice_input function with this sentence: fuck
+
+2022-02-11 17:29:26,421 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:29:26,421 Entered function with this phrase:fuck
+
+2022-02-11 17:29:26,421 Default key_name = '' 
+2022-02-11 17:29:26,421 Found key:abusive
+2022-02-11 17:29:26,421 Printed key found in dictionary: abusive
+2022-02-11 17:29:28,958 User input: suck
+2022-02-11 17:29:28,958 Voice_input function with this sentence: suck
+
+2022-02-11 17:29:28,958 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:29:28,958 Entered function with this phrase:suck
+
+2022-02-11 17:29:28,958 Default key_name = '' 
+2022-02-11 17:29:28,958 Found key:abusive
+2022-02-11 17:29:28,958 Printed key found in dictionary: abusive
+2022-02-11 17:29:41,561 User input: suck
+2022-02-11 17:29:41,562 Voice_input function with this sentence: suck
+
+2022-02-11 17:29:41,562 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:29:41,562 Entered function with this phrase:suck
+
+2022-02-11 17:29:41,562 Default key_name = '' 
+2022-02-11 17:29:41,562 Found key:abusive
+2022-02-11 17:29:41,562 Printed key found in dictionary: abusive
+2022-02-11 17:30:09,660 Starting the main process (core.py)
+
+2022-02-11 17:30:11,577 User input: suck
+2022-02-11 17:30:11,577 Voice_input function with this sentence: suck
+
+2022-02-11 17:30:11,577 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:30:11,577 Entered function with this phrase:suck
+
+2022-02-11 17:30:11,577 Default key_name = '' 
+2022-02-11 17:30:11,577 Found key:abusive
+2022-02-11 17:30:11,578 Printed key found in dictionary: abusive
+2022-02-11 17:30:22,274 User input: how are you suck
+2022-02-11 17:30:22,274 Voice_input function with this sentence: how are you suck
+
+2022-02-11 17:30:22,274 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:30:22,274 Entered function with this phrase:how
+
+2022-02-11 17:30:22,274 Default key_name = '' 
+2022-02-11 17:30:22,274 No key found or key is empty
+2022-02-11 17:30:22,274 Entered function with this phrase:are
+
+2022-02-11 17:30:22,274 Default key_name = '' 
+2022-02-11 17:30:22,274 No key found or key is empty
+2022-02-11 17:30:22,274 Entered function with this phrase:you
+
+2022-02-11 17:30:22,274 Default key_name = '' 
+2022-02-11 17:30:22,275 No key found or key is empty
+2022-02-11 17:30:22,275 Entered function with this phrase:suck
+
+2022-02-11 17:30:22,275 Default key_name = '' 
+2022-02-11 17:30:22,275 Found key:abusive
+2022-02-11 17:30:22,275 Printed key found in dictionary: abusive
+2022-02-11 17:30:29,535 User input: wow you suck
+2022-02-11 17:30:29,535 Voice_input function with this sentence: wow you suck
+
+2022-02-11 17:30:29,535 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:30:29,535 Entered function with this phrase:wow
+
+2022-02-11 17:30:29,535 Default key_name = '' 
+2022-02-11 17:30:29,535 Found key:no response
+2022-02-11 17:30:29,535 Printed key found in dictionary: no response
+2022-02-11 17:30:29,535 Entered function with this phrase:you
+
+2022-02-11 17:30:29,535 Default key_name = '' 
+2022-02-11 17:30:29,535 No key found or key is empty
+2022-02-11 17:30:29,535 Entered function with this phrase:suck
+
+2022-02-11 17:30:29,535 Default key_name = '' 
+2022-02-11 17:30:29,535 Found key:abusive
+2022-02-11 17:30:29,535 Printed key found in dictionary: abusive
+2022-02-11 17:32:01,547 User input: sleep
+2022-02-11 17:32:01,547 Voice_input function with this sentence: sleep
+
+2022-02-11 17:32:01,547 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:32:01,548 Entered function with this phrase:sleep
+
+2022-02-11 17:32:01,548 Default key_name = '' 
+2022-02-11 17:32:01,548 No key found or key is empty
+2022-02-11 17:32:05,139 User input: shutdown
+2022-02-11 17:32:05,139 Voice_input function with this sentence: shutdown
+
+2022-02-11 17:32:05,139 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:32:05,139 Entered function with this phrase:shutdown
+
+2022-02-11 17:32:05,139 Default key_name = '' 
+2022-02-11 17:32:05,139 Found key:shut down
+2022-02-11 17:32:05,139 Printed key found in dictionary: shut down
+2022-02-11 17:32:09,538 User input: convert
+2022-02-11 17:32:09,538 Voice_input function with this sentence: convert
+
+2022-02-11 17:32:09,538 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:32:09,538 Entered function with this phrase:convert
+
+2022-02-11 17:32:09,539 Default key_name = '' 
+2022-02-11 17:32:09,539 No key found or key is empty
+2022-02-11 17:32:14,088 User input: thank you
+2022-02-11 17:32:14,088 Voice_input function with this sentence: thank you
+
+2022-02-11 17:32:14,088 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:32:14,088 Entered function with this phrase:thank
+
+2022-02-11 17:32:14,088 Default key_name = '' 
+2022-02-11 17:32:14,088 No key found or key is empty
+2022-02-11 17:32:14,088 Entered function with this phrase:you
+
+2022-02-11 17:32:14,088 Default key_name = '' 
+2022-02-11 17:32:14,089 No key found or key is empty
+2022-02-11 17:32:26,872 User input: time
+2022-02-11 17:32:26,872 Voice_input function with this sentence: time
+
+2022-02-11 17:32:26,872 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:32:26,872 Entered function with this phrase:time
+
+2022-02-11 17:32:26,872 Default key_name = '' 
+2022-02-11 17:32:26,872 No key found or key is empty
+2022-02-11 17:32:33,362 User input: what time is it
+2022-02-11 17:32:33,363 Voice_input function with this sentence: what time is it
+
+2022-02-11 17:32:33,363 Setting default voice_output: You are asking wrong question
+
+
+2022-02-11 17:32:33,363 Entered function with this phrase:what
+
+2022-02-11 17:32:33,363 Default key_name = '' 
+2022-02-11 17:32:33,363 No key found or key is empty
+2022-02-11 17:32:33,363 Entered function with this phrase:time
+
+2022-02-11 17:32:33,363 Default key_name = '' 
+2022-02-11 17:32:33,363 No key found or key is empty
+2022-02-11 17:32:33,363 Entered function with this phrase:is
+
+2022-02-11 17:32:33,363 Default key_name = '' 
+2022-02-11 17:32:33,363 No key found or key is empty
+2022-02-11 17:32:33,363 Entered function with this phrase:it
+
+2022-02-11 17:32:33,363 Default key_name = '' 
+2022-02-11 17:32:33,363 No key found or key is empty
