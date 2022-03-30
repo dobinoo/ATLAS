@@ -715,3 +715,87 @@
 
 2022-02-11 17:32:33,363 Default key_name = '' 
 2022-02-11 17:32:33,363 No key found or key is empty
+2022-03-12 19:35:11,030 Starting the main process (core.py)
+
+2022-03-12 19:35:14,659 User input: test
+2022-03-12 19:35:14,659 Voice_input function with this sentence: test
+
+2022-03-12 19:35:14,660 Setting default voice_output: You are asking wrong question
+
+
+2022-03-12 19:35:14,660 Entered function with this phrase:test
+
+2022-03-12 19:35:14,660 Default key_name = '' 
+2022-03-12 19:35:14,660 No key found or key is empty
+2022-03-12 19:35:26,371 User input: define
+2022-03-12 19:35:26,372 Voice_input function with this sentence: define
+
+2022-03-12 19:35:26,372 Setting default voice_output: You are asking wrong question
+
+
+2022-03-12 19:35:26,372 Entered function with this phrase:define
+
+2022-03-12 19:35:26,372 Default key_name = '' 
+2022-03-12 19:35:26,372 Found key:wiki def
+2022-03-12 19:35:26,372 Printed key found in dictionary: wiki def
+2022-03-12 19:37:06,001 User input: what time is it
+2022-03-12 19:37:06,001 Voice_input function with this sentence: what time is it
+
+2022-03-12 19:37:06,001 Setting default voice_output: You are asking wrong question
+
+
+2022-03-12 19:37:06,001 Entered function with this phrase:what
+
+2022-03-12 19:37:06,001 Default key_name = '' 
+2022-03-12 19:37:06,001 No key found or key is empty
+2022-03-12 19:37:06,001 Entered function with this phrase:time
+
+2022-03-12 19:37:06,001 Default key_name = '' 
+2022-03-12 19:37:06,001 No key found or key is empty
+2022-03-12 19:37:06,001 Entered function with this phrase:is
+
+2022-03-12 19:37:06,001 Default key_name = '' 
+2022-03-12 19:37:06,001 No key found or key is empty
+2022-03-12 19:37:06,001 Entered function with this phrase:it
+
+2022-03-12 19:37:06,001 Default key_name = '' 
+2022-03-12 19:37:06,001 No key found or key is empty
+2022-03-12 19:37:26,407 User input: shut down
+2022-03-12 19:37:26,407 Voice_input function with this sentence: shut down
+
+2022-03-12 19:37:26,407 Setting default voice_output: You are asking wrong question
+
+
+2022-03-12 19:37:26,407 Entered function with this phrase:shut
+
+2022-03-12 19:37:26,407 Default key_name = '' 
+2022-03-12 19:37:26,407 No key found or key is empty
+2022-03-12 19:37:26,407 Entered function with this phrase:down
+
+2022-03-12 19:37:26,407 Default key_name = '' 
+2022-03-12 19:37:26,407 No key found or key is empty
+2022-03-12 19:37:29,388 User input: shutdown
+2022-03-12 19:37:29,388 Voice_input function with this sentence: shutdown
+
+2022-03-12 19:37:29,388 Setting default voice_output: You are asking wrong question
+
+
+2022-03-12 19:37:29,389 Entered function with this phrase:shutdown
+
+2022-03-12 19:37:29,389 Default key_name = '' 
+2022-03-12 19:37:29,389 Found key:shut down
+2022-03-12 19:37:29,389 Printed key found in dictionary: shut down
+2022-03-12 19:40:22,549 User input: thank you
+2022-03-12 19:40:22,549 Voice_input function with this sentence: thank you
+
+2022-03-12 19:40:22,549 Setting default voice_output: You are asking wrong question
+
+
+2022-03-12 19:40:22,550 Entered function with this phrase:thank
+
+2022-03-12 19:40:22,550 Default key_name = '' 
+2022-03-12 19:40:22,550 No key found or key is empty
+2022-03-12 19:40:22,550 Entered function with this phrase:you
+
+2022-03-12 19:40:22,550 Default key_name = '' 
+2022-03-12 19:40:22,550 No key found or key is empty

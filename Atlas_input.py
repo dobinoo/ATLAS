@@ -89,7 +89,7 @@ def get_wiki_summary(string):
 			summary += sentence + "."
 
 	except:
-		summary = "I'm not sure whae you mean. Could you be more specific?"
+		summary = "I'm not sure what you mean. Could you be more specific?"
 		logging.error("Problem within Altas_input.py -> get_wiki_summary")
 
 	return(summary)
