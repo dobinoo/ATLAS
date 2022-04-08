@@ -31,18 +31,20 @@ def voice_input(voice_sentence):
 	voice_output = "You are asking wrong question\n"
 	logging.info("Setting default voice_output: " + voice_output + "\n")
 
-	parsed_sentence = sentence_parse(voice_sentence)
+	#dont need sentence parsing right now
+	#parsed_sentence = sentence_parse(voice_sentence)
 	keys_list = []
-
+	user_input = voice_sentence
 	#For every word in sentence search key words in dictionary
-	for word in parsed_sentence:
-		key = dictionary_search(word)
-		if key != "":
-			logging.debug("Printed key found in dictionary: " + key)
-			keys_list.append(key)
-			print (keys_list)
-		else:
-			logging.info("No key found or key is empty")
+
+	for key, value in main_word_list.items():
+		for word in value:
+			if word in user_input:
+				logging.debug("Printed key found in dictionary: " + key)
+				keys_list.append(key)
+				print (keys_list)
+		#else:
+			#logging.info("No key found or key is empty") ##### this generates output (No key found) for every value in the dictionary
 	#print(keys_list)
 
 	# if voice_sentence == "ATLAS":

@@ -799,3 +799,20 @@
 
 2022-03-12 19:40:22,550 Default key_name = '' 
 2022-03-12 19:40:22,550 No key found or key is empty
+2022-04-09 00:35:37,830 Starting the main process (core.py)
+
+2022-04-09 00:35:47,240 User input: Hello could you turn off
+2022-04-09 00:35:47,240 Voice_input function with this sentence: Hello could you turn off
+
+2022-04-09 00:35:47,240 Setting default voice_output: You are asking wrong question
+
+
+2022-04-09 00:35:47,240 Printed key found in dictionary: shut down
+2022-04-09 00:36:06,845 User input: goodbye
+2022-04-09 00:36:06,845 Voice_input function with this sentence: goodbye
+
+2022-04-09 00:36:06,845 Setting default voice_output: You are asking wrong question
+
+
+2022-04-09 00:36:06,845 Printed key found in dictionary: shut down
+2022-04-09 00:36:06,846 Printed key found in dictionary: no response
