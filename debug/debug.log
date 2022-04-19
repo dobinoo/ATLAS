@@ -816,3 +816,50 @@
 
 2022-04-09 00:36:06,845 Printed key found in dictionary: shut down
 2022-04-09 00:36:06,846 Printed key found in dictionary: no response
+2022-04-19 18:46:18,229 Starting the main process (core.py)
+
+2022-04-19 18:50:45,506 User input: odkial si can you hear me please ?
+2022-04-19 18:50:45,506 Voice_input function with this sentence: odkial si can you hear me please ?
+
+2022-04-19 18:50:45,506 Setting default voice_output: You are asking wrong question
+
+
+2022-04-19 18:50:45,506 Printed key found in dictionary: are you there
+2022-04-19 18:52:20,932 User input: introduce yourself
+2022-04-19 18:52:20,932 Voice_input function with this sentence: introduce yourself
+
+2022-04-19 18:52:20,933 Setting default voice_output: You are asking wrong question
+
+
+2022-04-19 18:52:20,933 Printed key found in dictionary: introduction
+2022-04-19 18:52:20,933 Printed key found in dictionary: introduction
+2022-04-19 18:59:17,722 Starting the main process (core.py)
+
+2022-04-19 18:59:39,999 User input: introduce yourself
+2022-04-19 18:59:40,000 Voice_input function with this sentence: introduce yourself
+
+2022-04-19 18:59:40,000 Setting default voice_output: You are asking wrong question
+
+
+2022-04-19 18:59:40,000 Printed key found in dictionary: introduction
+2022-04-19 18:59:40,000 Printed key found in dictionary: introduction
+2022-04-19 19:08:39,456 Starting the main process (core.py)
+
+2022-04-19 19:09:32,859 User input: introduce yourself
+2022-04-19 19:09:32,859 Voice_input function with this sentence: introduce yourself
+
+2022-04-19 19:09:32,859 Setting default voice_output: You are asking wrong question
+
+
+2022-04-19 19:09:32,859 Printed key found in dictionary: introduction
+2022-04-19 19:09:32,859 Printed key found in dictionary: introduction
+2022-04-19 19:09:47,584 Starting the main process (core.py)
+
+2022-04-19 19:09:51,844 User input: introduce yourself
+2022-04-19 19:09:51,852 Voice_input function with this sentence: introduce yourself
+
+2022-04-19 19:09:51,852 Setting default voice_output: You are asking wrong question
+
+
+2022-04-19 19:09:51,852 Printed key found in dictionary: introduction
+2022-04-19 19:09:51,852 Printed key found in dictionary: introduction

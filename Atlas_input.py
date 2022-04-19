@@ -32,7 +32,7 @@ def voice_input(voice_sentence):
 	logging.info("Setting default voice_output: " + voice_output + "\n")
 
 	#dont need sentence parsing right now
-	#parsed_sentence = sentence_parse(voice_sentence)
+	#parsed_sentence = sentence_parse(voice_sentence
 	keys_list = []
 	user_input = voice_sentence
 	#For every word in sentence search key words in dictionary
@@ -42,7 +42,7 @@ def voice_input(voice_sentence):
 			if word in user_input:
 				logging.debug("Printed key found in dictionary: " + key)
 				keys_list.append(key)
-				print (keys_list)
+				#print(keys_list)
 		#else:
 			#logging.info("No key found or key is empty") ##### this generates output (No key found) for every value in the dictionary
 	#print(keys_list)
@@ -51,6 +51,11 @@ def voice_input(voice_sentence):
 	# 	voice_output = "Another Technical Love of an Anonymous Stranger"
 	# 	logging.debug("Returning voice_output: " + voice_output + "\n")
 
+
+
+	#Removing duplicates from list !!!
+	keys_list = list(dict.fromkeys(keys_list))
+	print(keys_list)
 	return voice_output
 
 #Function to parse sentence_parse

@@ -3,7 +3,9 @@
 
 import time                         #import for time use
 import logging                      #import for future debug
-import Atlas_input                        #importing function to take care of input
+import Atlas_input                  #importing function to take care of input
+#add later
+######## import voice library       #importing voice library for ATLAS speaker
 
 logging_level = logging.DEBUG       #setting up logging level
 output = "Just testing output, this will change in future"          #just testing output - change in future
